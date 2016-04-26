@@ -1,5 +1,5 @@
-alert_message,body_raw,company,job_title,location,post_date,status_code,views
-This job post has expired (either the position was filled or the post is no longer listed). You are viewing an archived version.,"
+alert_message,body_p,body_raw,body_ul,company,job_id,job_title,location,post_date,status_code,views
+This job post has expired (either the position was filled or the post is no longer listed). You are viewing an archived version.,5,"
     Posted 6 months ago (1,841 views)
     Do you want to be the next #1 on Kaggle? Have what it takes to work alongside the current #1 and two former #1's? Joining team DataRobot means you'll learn and work with Owen, Xavier, and Sergey to change the way we do data science.As a Lead Data Scientists Consultant in Japan, you will be developing opportunities, analysing customer requirements, and providing consulting service in complex technical environments. You will be comfortable leading technical demonstrations of Datarobot product and discussions of specifics of various machine learning algorithms and preprocessing methods. You will work with prospects and clients for developing solutions to complex predictive analytic problems involving many diverse input data sources and high volume real-time implementation scenarios.
 You must have all of the necessary skills: 
@@ -23,8 +23,8 @@ Previous sales engineering experience 
         
             Apply Now
         
-",DataRobot ,Data Scientist,Japan,10/9/2015 9:16:55 AM UTC,200,1841
-This job post has expired (either the position was filled or the post is no longer listed). You are viewing an archived version.,"
+",2,DataRobot ,16785,Data Scientist,Japan,10/9/2015 9:16:55 AM UTC,200,1841
+This job post has expired (either the position was filled or the post is no longer listed). You are viewing an archived version.,20,"
     Posted 4 months ago (551 views)
     Data Analysis Manager – Digital Data Analytics
 At Capital One, data is at the center of everything we do. When we were a tiny startup we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and that little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
@@ -49,8 +49,8 @@ Capital One will consider for employment qualified applicants with a criminal hi
         
             Apply Now
         
-",Capital One,Digital Data Analysis Manager,"Richmond, VA",12/1/2015 6:07:46 PM UTC,200,551
-This job post has expired (either the position was filled or the post is no longer listed). You are viewing an archived version.,"
+",0,Capital One,16885,Digital Data Analysis Manager,"Richmond, VA",12/1/2015 6:07:46 PM UTC,200,551
+This job post has expired (either the position was filled or the post is no longer listed). You are viewing an archived version.,19,"
     Posted 2 months ago (1,499 views)
     Data Scientist / Machine Learning / NLP at VC-backed start-up. Full-time position in San Francisco.
 About the position
@@ -73,4 +73,4 @@ This role is based at our San Francisco office. This is a full time position wit
         
             Apply Now
         
-",msg.ai,Data Scientist / Machine Learning / NLP at Y-Combinator and VC-backed start-up,San Francisco,2/3/2016 3:33:27 AM UTC,200,1499
+",0,msg.ai,16985,Data Scientist / Machine Learning / NLP at Y-Combinator and VC-backed start-up,San Francisco,2/3/2016 3:33:27 AM UTC,200,1499
